@@ -1,0 +1,34 @@
+.container{
+    width:8000px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.site-content{
+    width: 600px;
+    height:500px;
+    background-color:skyblue;
+    float: left;
+}
+
+.site-img{
+    height:500px;
+    width:100px;
+    background-color: yellow;
+    float:left;
+}
+.profile{
+    float:left;
+}
+.right-img{
+    width: 100px;
+    height: 100px;
+}
+.profile-img{
+    width:50px;
+    height:65px;
+    float: left;
+}
+.namedate{
+    
+    float:left;
+}
